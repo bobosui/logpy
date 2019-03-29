@@ -1,9 +1,13 @@
-kanren
+kanren / logpy
 =====
+Originally comes from miniKanren (minikanren.org), which is another logical language like Prolog
+The different from this two language are described in Kanren_Prolog.md
+
 
 [![](https://travis-ci.org/logpy/logpy.png)](https://travis-ci.org/logpy/logpy)
 
 Logic Programming in Python
+
 
 Examples
 --------
